@@ -40,8 +40,8 @@
 ; has some useful functions such as 'sleep' used here.
 ; ****************************************************************
 
-	INCLUDE VCS.h
-	INCLUDE macro.h
+	INCLUDE "vcs.h"
+	INCLUDE "macro.h"
 
 ; ****************************************************************
 ; Constants set here
